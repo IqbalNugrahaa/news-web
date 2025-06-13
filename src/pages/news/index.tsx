@@ -5,7 +5,6 @@ import NewsCard from "./component/CardNews";
 import Title from "antd/es/typography/Title";
 import Paragraph from "antd/es/typography/Paragraph";
 import moment from "moment";
-import { useState } from "react";
 import CardEverything from "./component/CardEverything";
 import { useNavigate } from "react-router-dom";
 
